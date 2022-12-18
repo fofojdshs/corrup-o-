@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dad-6-1.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing NOTE RIGHT Default0000" x="1277" y="5" width="447" height="778"/>
+	<SubTexture name="Dad Sing NOTE UP Default0000" x="5" y="793" width="413" height="809" frameX="-1" frameY="0" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing Note DOWN Default0000" x="5" y="5" width="463" height="752" frameX="0" frameY="-3" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note LEFT Default0000" x="896" y="5" width="371" height="766" frameX="0" frameY="0" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad idle dance Default0000" x="478" y="5" width="408" height="759" frameX="-5" frameY="0" frameWidth="413" frameHeight="758"/>
+</TextureAtlas>

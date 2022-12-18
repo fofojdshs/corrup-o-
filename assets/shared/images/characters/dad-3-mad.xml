@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dadbutStillAngry.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing NOTE RIGHT Weaken20000" x="1281" y="5" width="440" height="774"/>
+	<SubTexture name="Dad Sing NOTE UP Weaken20000" x="5" y="789" width="413" height="808" frameX="-1" frameY="0" frameWidth="413" frameHeight="808"/>
+	<SubTexture name="Dad Sing Note DOWN Weaken20000" x="5" y="5" width="463" height="751" frameX="0" frameY="-3" frameWidth="463" frameHeight="755"/>
+	<SubTexture name="Dad Sing Note LEFT Weaken20000" x="896" y="5" width="375" height="765" frameX="0" frameY="0" frameWidth="375" frameHeight="766"/>
+	<SubTexture name="Dad idle dance Weaken20000" x="478" y="5" width="408" height="762" frameX="-5" frameY="0" frameWidth="413" frameHeight="761"/>
+</TextureAtlas>

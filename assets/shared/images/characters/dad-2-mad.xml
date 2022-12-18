@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doodoodaadaa.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing NOTE RIGHT Pissed0000" x="5" y="786" width="450" height="773"/>
+	<SubTexture name="Dad Sing NOTE UP Pissed0000" x="465" y="786" width="413" height="804" frameX="-1" frameY="0" frameWidth="413" frameHeight="804"/>
+	<SubTexture name="Dad Sing Note DOWN Pissed0000" x="5" y="5" width="463" height="750" frameX="0" frameY="-3" frameWidth="466" frameHeight="754"/>
+	<SubTexture name="Dad Sing Note LEFT Pissed0000" x="930" y="5" width="380" height="771" frameX="0" frameY="0" frameWidth="438" frameHeight="770"/>
+	<SubTexture name="Dad idle dance Pissed0000" x="478" y="5" width="442" height="765" frameX="-5" frameY="0" frameWidth="455" frameHeight="765"/>
+</TextureAtlas>

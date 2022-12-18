@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="momsaving.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MOM DOWN POSE0000" x="5" y="5" width="504" height="599" frameX="-4" frameY="0" frameWidth="505" frameHeight="613"/>
+	<SubTexture name="Mom Idle0000" x="519" y="5" width="415" height="829" frameX="-4" frameY="-2" frameWidth="421" frameHeight="829"/>
+	<SubTexture name="Mom Left Pose0000" x="944" y="5" width="577" height="817"/>
+	<SubTexture name="Mom Pose Left0000" x="944" y="832" width="516" height="784"/>
+	<SubTexture name="Mom Up Pose0000" x="5" y="832" width="477" height="848" frameX="0" frameY="-15" frameWidth="501" frameHeight="870"/>
+</TextureAtlas>

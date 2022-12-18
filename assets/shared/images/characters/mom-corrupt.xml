@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mombutglowstick.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MOM DOWN POSE0000" x="5" y="5" width="539" height="636" frameX="-4" frameY="0" frameWidth="604" frameHeight="656"/>
+	<SubTexture name="Mom Idle0000" x="554" y="5" width="460" height="879" frameX="-4" frameY="-4" frameWidth="520" frameHeight="873"/>
+	<SubTexture name="Mom Left Pose0000" x="5" y="904" width="580" height="815" frameX="0" frameY="0" frameWidth="660" frameHeight="858"/>
+	<SubTexture name="Mom Pose Left0000" x="1024" y="5" width="621" height="889"/>
+	<SubTexture name="Mom Up Pose0000" x="595" y="904" width="570" height="926" frameX="0" frameY="-7" frameWidth="600" frameHeight="915"/>
+</TextureAtlas>

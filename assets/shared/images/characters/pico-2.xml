@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico-1-2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Look Gf Pico Reloading Gun0000" x="5" y="976" width="491" height="474" frameX="-117" frameY="0" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Look Gf Pico Reloading Gun0001" x="5" y="976" width="491" height="474" frameX="-117" frameY="0" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Look Gf Pico Reloading Gun0002" x="5" y="976" width="491" height="474" frameX="-118" frameY="-1" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Look Gf Pico Reloading Gun0003" x="5" y="976" width="491" height="474" frameX="-118" frameY="-1" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Look Gf Pico Reloading Gun0004" x="506" y="976" width="437" height="459" frameX="-213" frameY="-13" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Look Gf Pico Reloading Gun0005" x="506" y="976" width="437" height="459" frameX="-213" frameY="-13" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Look Gf Pico Reloading Gun0006" x="506" y="976" width="437" height="459" frameX="-212" frameY="-15" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Look Gf Pico Reloading Gun0007" x="5" y="976" width="437" height="459" frameX="-212" frameY="-15" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Look Gf Pico Reloading Gun0008" x="953" y="976" width="440" height="461" frameX="-212" frameY="-15" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Look Gf Pico Reloading Gun0009" x="953" y="976" width="440" height="461" frameX="-212" frameY="-15" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Look Gf Pico Reloading Gun0010" x="953" y="976" width="440" height="461" frameX="-212" frameY="-15" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Look Gf Pico Reloading Gun0011" x="953" y="976" width="440" height="461" frameX="-207" frameY="-13" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Pico Down Note0000" x="5" y="5" width="475" height="382" frameX="-13" frameY="-9" frameWidth="488" frameHeight="393"/>
+	<SubTexture name="Pico Idle Dance0000" x="490" y="5" width="495" height="474" frameX="-1" frameY="-13" frameWidth="500" frameHeight="475"/>
+	<SubTexture name="Pico NOTE LEFT0000" x="995" y="5" width="473" height="466" frameX="0" frameY="-3" frameWidth="494" frameHeight="465"/>
+	<SubTexture name="Pico Note Right0000" x="5" y="481" width="384" height="469" frameX="-1" frameY="-1" frameWidth="387" frameHeight="470"/>
+	<SubTexture name="Pico Reloading Gun0000" x="1478" y="5" width="422" height="465" frameX="-117" frameY="0" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Pico Reloading Gun0001" x="1478" y="5" width="422" height="465" frameX="-117" frameY="0" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Pico Reloading Gun0002" x="1478" y="5" width="422" height="465" frameX="-118" frameY="-1" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Pico Reloading Gun0003" x="1478" y="5" width="422" height="465" frameX="-118" frameY="-1" frameWidth="652" frameHeight="476"/>
+	<SubTexture name="Pico Reloading Gun0004" x="1478" y="5" width="422" height="465" frameX="-213" frameY="-8" frameWidth="636" frameHeight="476"/>
+	<SubTexture name="Pico Reloading Gun0005" x="1481" y="480" width="426" height="466" frameX="-213" frameY="-8" frameWidth="636" frameHeight="476"/>
+	<SubTexture name="Pico Reloading Gun0006" x="1481" y="480" width="426" height="466" frameX="-212" frameY="-10" frameWidth="636" frameHeight="476"/>
+	<SubTexture name="Pico Reloading Gun0007" x="1481" y="480" width="426" height="466" frameX="-212" frameY="-10" frameWidth="636" frameHeight="476"/>
+	<SubTexture name="Pico Reloading Gun0008" x="1481" y="480" width="426" height="466" frameX="-212" frameY="-10" frameWidth="636" frameHeight="476"/>
+	<SubTexture name="Pico Reloading Gun0009" x="1481" y="480" width="426" height="466" frameX="-212" frameY="-10" frameWidth="636" frameHeight="476"/>
+	<SubTexture name="Pico Reloading Gun0010" x="1481" y="480" width="426" height="466" frameX="-212" frameY="-10" frameWidth="636" frameHeight="476"/>
+	<SubTexture name="Pico Reloading Gun0011" x="1481" y="480" width="426" height="466" frameX="-207" frameY="-9" frameWidth="636" frameHeight="476"/>
+	<SubTexture name="Pico Shoot0000" x="1481" y="956" width="448" height="479" frameX="-84" frameY="-26" frameWidth="598" frameHeight="503"/>
+	<SubTexture name="Pico Shoot Gf0000" x="1403" y="1445" width="442" height="490" frameX="-84" frameY="-16" frameWidth="601" frameHeight="503"/>
+	<SubTexture name="pico Up note0000" x="995" y="481" width="476" height="485" frameX="-3" frameY="0" frameWidth="475" frameHeight="491"/>
+</TextureAtlas>
